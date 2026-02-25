@@ -6,6 +6,8 @@ https://jsonresume.org/
 Had a copy of my resume in Reactive Resume. Export .json
 Used Gemini to convert reactive resume .json into JSON Resume .json standard schema
 
+
+
 #softwares on windows
 https://nodejs.org/dist/v24.14.0/node-v24.14.0-x64.msi
 npm install -g resume-cli
